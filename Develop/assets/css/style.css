@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header and navigation bar styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,7 +68,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* main body styling*/
 main {
     width: 75%;
     display: inline-block;
@@ -93,7 +93,7 @@ main {
     font-size: 36px;
 }
 
-
+/*aside styling*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +121,7 @@ aside {
     max-width: 150px;
 }
 
+/*footer styling*/
 footer {
     padding: 30px;
     clear: both;
